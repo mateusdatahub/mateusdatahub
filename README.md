@@ -15,7 +15,6 @@ relacionados a dados, modelos e análises.
 • 🎯 **Aprendizado por Reforço**  
 • 📈 **Análise de Dados**
 
----
 ### 🛠️ Ferramentas e tecnologias
 
 <div display="inline">
@@ -26,7 +25,6 @@ relacionados a dados, modelos e análises.
     <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
----
 ### Meus canais de contato
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=saints.note94@gmail.com&subject=Contato" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
