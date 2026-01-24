@@ -1,10 +1,7 @@
-### Olá, eu sou o Mateus Santos 😁
+### Oi!  
+Sou o Mateus Santos, estudante de Ciência de Dados e Machine Learning pelo CEUB.
 
-Sou estudante e entusiasta do mundo dos dados, com foco em **Machine Learning** e no
-aprendizado prático através dos meus projetos.
-
-Este espaço tem como objetivo central organizar meus estudos e projetos
-relacionados a dados, modelos e análises.
+Busco me desenvolver em dados e modelos estatísticos, visando uma atuação futura como cientista de dados.
 
 ---
 ### Áreas de interesse
